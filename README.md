@@ -9,13 +9,17 @@ Utilizing advanced SQL queries and data integration from Google BigQuery and ext
 
 The project methodology encompassed several pivotal stages:
 
-Data Aggregation and Processing: Gathering diverse datasets from multiple sources across the organization, ensuring data accuracy, and preparing it for integration within the Tableau dashboard.
+### Data Aggregation and Processing: 
+Gathering diverse datasets from multiple sources across the organization, ensuring data accuracy, and preparing it for integration within the Tableau dashboard.
 
-Dashboard Interface Design: Utilizing Tableau's functionalities to design an engaging and user-friendly dashboard interface. This involved selecting appropriate visualization techniques, creating interactive elements, and ensuring the dashboard's responsiveness.
+### Dashboard Interface Design: 
+Utilizing Tableau's functionalities to design an engaging and user-friendly dashboard interface. This involved selecting appropriate visualization techniques, creating interactive elements, and ensuring the dashboard's responsiveness.
 
-Integration of Key Metrics: Incorporating crucial KPIs and performance metrics identified by leadership into the dashboard to offer a holistic view of the AP region's performance and priorities.
+### Integration of Key Metrics: 
+Incorporating crucial KPIs and performance metrics identified by leadership into the dashboard to offer a holistic view of the AP region's performance and priorities.
 
-Testing and Refinement: Iterative testing and feedback collection from stakeholders to refine the dashboard's usability and relevance, ensuring alignment with leadership requirements.
+### Testing and Refinement: 
+Iterative testing and feedback collection from stakeholders to refine the dashboard's usability and relevance, ensuring alignment with leadership requirements.
 
 ## Key Components:
 
